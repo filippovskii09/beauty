@@ -1,0 +1,15 @@
+.like {
+	fill: transparent;
+	cursor: pointer;
+}
+.like path {
+	stroke: black;
+}
+
+.checked {
+	fill: red;
+	cursor: pointer;
+}
+.checked path {
+	stroke: red;
+}

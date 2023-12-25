@@ -1,0 +1,16 @@
+.new {
+	color: var(--bw-white, #FFF);
+	text-align: center;
+	font-family: Manrope;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+	letter-spacing: 0.54px;
+	background: var(--bw-black, #323232);
+	width: 38px;
+	height: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
